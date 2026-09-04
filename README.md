@@ -5,9 +5,9 @@
 # prak-RSI
 
 ## Kelompok 5
-Irfan Akmal Muzakki - L0224049
-Ahmad Faisal Makarim - L0225013
-Muhammad Khairil Amrullah - L0225039
-Muhammad Rizqi Zainfani Putra - L0225053
+- Irfan Akmal Muzakki - L0224049
+- Ahmad Faisal Makarim - L0225013
+- Muhammad Khairil Amrullah - L0225039
+- Muhammad Rizqi Zainfani Putra - L0225053
 
 
