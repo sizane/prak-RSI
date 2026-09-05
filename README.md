@@ -7,5 +7,5 @@
 Mamah spada-nya error lagi
 
 
-# Praktikum mata kuliah Rekayasa Sistem Informasi
+\# Praktikum mata kuliah Rekayasa Sistem Informasi
 
