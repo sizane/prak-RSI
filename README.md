@@ -2,7 +2,15 @@
   <img src="etc/Project SDA.png" alt="1" style="width: 95%; height: auto; border-radius: 8px;">
 </div>
 
-# prak-RSI
+<h1> Prak - RSI </h1>
+
+Mamah spada-nya error lagi
+
+## Deskripsi Project
+Ini deskripsi project
+
+
+\# Praktikum mata kuliah Rekayasa Sistem Informasi
 
 ## Kelompok 5
 - Irfan Akmal Muzakki - L0224049
