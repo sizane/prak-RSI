@@ -11,3 +11,10 @@
 - Muhammad Rizqi Zainfani Putra - L0225053
 
 
+## Informasi Tambahan Developer N
+
+Project ini merupakan tugas praktikum Rekayasa Sistem Informasi.
+
+Fitur tambahan:
+- Dokumentasi project
+- Informasi tambahan sistem
