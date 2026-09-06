@@ -5,3 +5,10 @@
 <h1> Prak - RSI
 # Praktikum mata kuliah Rekayasa Sistem Informasi
 
+## Informasi Tambahan Developer N
+
+Project ini merupakan tugas praktikum Rekayasa Sistem Informasi.
+
+Fitur tambahan:
+- Dokumentasi project
+- Informasi tambahan sistem
