@@ -5,6 +5,7 @@
 <h1> Prak - RSI </h1>
 
 Mamah spada-nya error lagi
+Ini deskripsi project
 
 
 \# Praktikum mata kuliah Rekayasa Sistem Informasi
